@@ -14,7 +14,7 @@ Notes from what I learn almost everyday (hum : ) )
 * [Git](#git)
 
 ### Bash
-- [Multiline in a variable](bash/miltiline-readline.md)
+- [Multiline in a variable](bash/multiline-readline.md)
 
 ### Elixir
 
