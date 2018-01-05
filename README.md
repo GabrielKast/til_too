@@ -1,2 +1,26 @@
-# til_too
-Today I learned (idea from https://github.com/jbranchaud/til)
+# Today I Learned (too)
+
+(idea from https://github.com/jbranchaud/til)
+Notes from what I learn almost everyday (hum : ) )
+
+---
+
+### Categories
+
+* [Bash](#bash)
+* [Emacs](#emacs)
+* [Elixir](#elixir)
+* [Erlang](#erlang)
+* [Git](#git)
+
+### Bash
+- [Multiline in a variable](bash/miltiline-readline.md)
+
+### Elixir
+
+
+### Erlang
+
+
+### Git
+
