@@ -15,6 +15,7 @@ Notes from what I learn almost everyday (hum : ) )
 
 ### Bash
 - [Multiline in a variable](bash/multiline-readline.md)
+- [Sort by line length](bash/sort-by-line-length.md)
 
 ### Elixir
 
